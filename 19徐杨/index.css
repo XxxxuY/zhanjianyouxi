@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+}
+form {
+  position: relative;
+
+  margin-top: 0px;
+
+  height: 100px;
+}
+
+#clickButton {
+  margin-left: 70px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.backboard{
+  background: url("photo/timg.jpg") no-repeat;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background-size: 100%;
+}
